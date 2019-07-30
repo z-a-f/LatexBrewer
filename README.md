@@ -7,3 +7,5 @@ Juse include in your latex preamble:
 \usepackage{xcolor}
 \input{BrewerColors}
 ```
+
+[Color Demos](https://www.graphviz.org/doc/info/colors.html#brewer)
